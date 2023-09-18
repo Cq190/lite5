@@ -1,0 +1,17 @@
+{
+    "hashes": {
+        "checkpoint/fantasyinkv22.ckpt": {
+            "mtime": 1691756976.0,
+            "sha256": "37f5d4b92133a8e90151de9c473ada1388016932e702fbace3d36e9b59b8cf53"
+        },
+        "checkpoint/Carmine Engine.ckpt": {
+            "mtime": 1692346885.0,
+            "sha256": "13aac067e6fc34fea6d2f15d23f32a63d86fc95a24c6e1b341a8241cc67b22fb"
+        },
+        "checkpoint/fantasyinkv26.ckpt": {
+            "mtime": 1692346885.0,
+            "sha256": "13aac067e6fc34fea6d2f15d23f32a63d86fc95a24c6e1b341a8241cc67b22fb"
+        }
+    },
+    "extensions-git": {}
+}
